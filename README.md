@@ -4,7 +4,7 @@
 
 ## Description
 
-This simple spider will crawl all books currently listed as bestsellers over the first 10 pages to collect data for further analysis.
+This spider will crawl all books currently listed as bestsellers over the first 10 pages to collect data for further analysis.
 
 ## Requirements
 

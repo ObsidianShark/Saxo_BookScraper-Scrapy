@@ -26,10 +26,15 @@ To install dependencies, run the command bellow :
   pip install -r requirements.txt
 ```
 
-
+To properly use the scrapy-splash dependency, splash docker is necessary so make sure to check all the settings configuration at: https://github.com/scrapy-plugins/scrapy-splash
 
 ## Usage
 
+Start your splash docker with the command bellow:
+
+```bash
+  docker run -p 8050:8050 scrapinghub/splash
+```
 
 To crawl over best selling books from saxo.com, run the command bellow:
 

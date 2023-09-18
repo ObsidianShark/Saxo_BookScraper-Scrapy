@@ -8,7 +8,8 @@ This spider will crawl all books currently listed as bestsellers over the first 
 
 ## Requirements
 
-Python 3.10+
+Python 3.10+\
+Docker
 
 
 ## Installation

@@ -17,8 +17,7 @@ Docker
 To clone the repository, type the code below in a shell :
 
 ```bash
-  git clone https://github.com/ObsidianShark/Saxo_BookScraper-Scrapy.git
-  cd bestsellers
+  git clone https://github.com/ObsidianShark/Saxo_BookScraper-Scrapy.git  
 ```
 
 To install dependencies, run the command bellow :

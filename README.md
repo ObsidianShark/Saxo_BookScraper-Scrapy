@@ -39,5 +39,5 @@ Start your splash docker with the command bellow:
 To crawl over best selling books from saxo.com, run the command bellow:
 
 ```bash
-  scrapy crawl saxo -o saxo.json
+  scrapy crawl saxo
 ```

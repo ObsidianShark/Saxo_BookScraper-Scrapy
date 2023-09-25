@@ -15,6 +15,9 @@ class SaxoSpider(scrapy.Spider):
     custom_settings = {
         "AUTOTHROTTLE_ENABLED": True,
         "AUTOTHROTTLE_DEBUG": True,
+        "FEEDS": {
+            f"{name}.json": {"format": "json"},
+        },
     }
 
     def start_requests(self):
